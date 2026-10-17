@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kelechi-usulor.vercel.app/sitemap.xml
